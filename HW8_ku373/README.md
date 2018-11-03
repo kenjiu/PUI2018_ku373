@@ -14,5 +14,5 @@ HW8 has been done by Kenji Uchimoto alone.
 
 ## Assignment1
 
-![main plot](Image/Picture for Assignment1.png)
+![main plot](Image/Picture_for_Assignment1.png)
 
