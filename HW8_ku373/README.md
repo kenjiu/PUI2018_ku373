@@ -12,7 +12,7 @@ HW8 has been done by Kenji Uchimoto by himself.
 
 
 ## Assignment1
-![main plot](Image/Picture_for_Assignment1.png)
+![main plot](Image/Picture_for_Assignment.png)
 
 Figure1
 Description: Figure1 shows population growth rates in Brooklyn and Manhattan (Projection after 2010). The data was retreived from NYC open data, New York City Population by Borough, 1950 - 2040 and coverted to growth rates. 
