@@ -19,3 +19,7 @@ Description: Figure1 shows population growth rates in Brooklyn and Manhattan (Pr
 We can see that after 2020 the rate of Manhattan drops drastically while that of Brooklyn keeps about 3%. 
 
 Color: To make the graph simple, I used black and gray color, which are easily understandable for people suffering from color-blindness.
+
+## Assignment2
+
+https://www.authorea.com/users/249318/articles/335450-hw8-assignment2#
