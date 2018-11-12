@@ -2,10 +2,11 @@
 
 xh1163 created a figure which describes the relationship between Day of week and the number of riders age under and over 40 in February 2014. 
 
-CLARITY: This figure clearly shows the absolute numbers for each age group. However, it is a little bit difficult to figure out the distribution of percentages of riders each day (e.g. Monday:25%), which is quite important imformation as well. In order to compare 2 age groups, you could use percentages of bikers instead of absolute numbers to make histogram.
+CLARITY: This figure clearly shows the absolute numbers for each age group. However, it is a little bit difficult to figure out the distribution of percentages of riders each day (e.g. Monday:25%), which is quite important imformation as well. In order to compare 2 age groups, you could use distribution of percentages of bikers instead of absolute numbers to make histogram. Depends on the purpose of the graph though.
 
-ESTHETIC: xh1163 shows 
+ESTHETIC: The figure is simple and easy to understand. xh1163 uses blue and orange so that people with each type of color blind can understand the difference. 
+
+HONESTY: xh1163 shows the original code, so I can say that the graph is reproduceble. In fact, I successed to download the original data from the link mentioned in the original code. 
 
 
-HONESTY:
 
