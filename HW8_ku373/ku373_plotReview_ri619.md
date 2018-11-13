@@ -1,6 +1,6 @@
 ### Assignment 1 Kenji Uchimoto Plot Critique
 
-![main plot](Kenji_plot.png)
+![main plot](Image/Picture_for_Assignment.png)
 
 
 This plot shows population growth from 1990 - 2010 (and projected afterwards) in Brooklyn and Manhattan. It is relatively easy
