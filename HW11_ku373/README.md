@@ -25,10 +25,13 @@ We can see that after 2020 the rate of Manhattan drops drastically while that of
 
 Along with advises, I changed
 - y_label
+
 As a referees mentioned, I use raw number instead of percentage because it would generate one more information, i.e. difference of scales among boroughs here.
 
 - Number of boroughs
+
 To add other boroughs' data are useful if it does not make the graph messy. 
 
 - colors
+
 One referee mentioned to use color as black and gray is not interesting. And, this time, we have 4 boroughs, so we need new colors in addition to black and gray. I chose brue and yellow for new colors because those are understandable for most color blind people. 
