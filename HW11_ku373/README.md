@@ -14,10 +14,10 @@ Fu, TA, gave me instructions about the assignments.
 
 ## Assignment2
 Original
-![main plot](Image/Picture_for_Assignment.png)
+![main plot](image/Picture_for_Assignment.png)
 
 Renewed
-![main plot](Image/Picture_for_Assignment.png)
+![main plot](image/Picture_for_Assignment2.png)
 
 Figure1
 Original Description: Figure1 shows population growth rates in Brooklyn and Manhattan (Projection after 2010). The data was retrieved from NYC open data, New York City Population by Borough, 1950 - 2040 and converted to growth rates. 
