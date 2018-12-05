@@ -3,8 +3,9 @@
 ## Questions and Tasks
 HW11 is devided into two parts.
 
--MTA data wrangling and Randomtree. Use numpy 3D data and create time-series.
--Plotting along with advises that we got from peers. Descriptions are below.
+-MTA data wrangling and Randomtree. Use numpy 3D data and create time-series. Create features.
+
+-Plotting along with advises that we got from peers. Descriptions are below. I described NYC population changes by borough.
 
 ## Contributions
 HW11 has been done by Kenji Uchimoto by himself. 
