@@ -3,7 +3,7 @@
 ## Questions and Tasks
 HW12 is devided into two parts.
 
--MTA data wrangling and Fourier transform.
+-MTA data wrangling and Fourier transform. 
 
 -NYC economic development data. Data Wrangling. Clustering with 2 different approaches; K-means and DBSCAN, and plot the results on top of the NYC map. Compare both results.
 
